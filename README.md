@@ -1,5 +1,6 @@
 # Sort and Shuffle Project
  **Overview**
+ 
 This project is a C program that allows users to input multiple artists and their respective songs, sorts the artists alphabetically along with their songs, and then shuffles the songs randomly. The shuffled playlist ensures that the same song does not appear twice in the space of 5 songs.
 
 # Features
